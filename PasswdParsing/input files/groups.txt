@@ -1,0 +1,3 @@
+oracle:x:1:root
+windows:x:2:root,daemon
+games:x:3:root,daemon,bin
