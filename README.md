@@ -13,4 +13,4 @@ Step 6: Run the python script by entering the command "passwdparser.py"
 Step 7: Enter the path of the passwd file and press enter.                                                              
         Example: C:\\Users\\Neha\\Desktop\\Internship project\\Unix\\passwd.txt                                                
 Step 8: Enter the path of the group file and press enter.                                                                            
-        Example: C:\\Users\\Neha\\Desktop\\Internship project\\Unix\\groups.txt                                                      
+        Example: C:\\Users\\Neha\\Desktop\\Internship project\\Unix\\groups.txt                                                            Step 9: Displays output.                              
